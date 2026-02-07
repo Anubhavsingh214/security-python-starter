@@ -9,8 +9,8 @@ Beginner-friendly security + Linux + Python mini projects.
 Linux, Python, Git
 
 ## How to run
-chmod +x detector.sh
-./detector.sh
+chmod +x monitor.sh
+./monitor.sh
 
 
 Save: **Ctrl+O**, Enter, then **Ctrl+X**

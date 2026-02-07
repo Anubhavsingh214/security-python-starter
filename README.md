@@ -9,9 +9,8 @@ Beginner-friendly security + Linux + Python mini projects.
 Linux, Python, Git
 
 ## How to run
-Python 3:
-```bash
-python3 script.py
+chmod +x detector.sh
+./detector.sh
 
 
 Save: **Ctrl+O**, Enter, then **Ctrl+X**
@@ -20,3 +19,5 @@ Commit it:
 ```bash
 git add .
 git commit -m "init: add README"
+
+Status: Completed(v1)
